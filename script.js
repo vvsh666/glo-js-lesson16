@@ -16,5 +16,4 @@ class Second extends First {
 const firstObj = new First();
 const secondObj = new Second();
 
-firstObj.hello()
 secondObj.hello()
